@@ -4,7 +4,7 @@
 title: Ladislas' Commit Pics
 description: "Commiting is the art of the developer. Now, you can keep a trace of every face you made will working on your projects."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/commitpics"
+baseurl: "/git-commitpics"
 url: "http://ladislas.github.io"
 
 # Build settings
