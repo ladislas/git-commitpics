@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "8506c17"
+date:   Sun Dec 28 15:43:22 2014
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-28-commitpics-8506c17.jpg
+hash: 8506c173d3e91449cecd3d23128b6602fd0acf6b
+commitdate: Sun Dec 28 15:43:20 2014 +0100
+message: commitpics script git add, git commit and git push to the user repository
+repository: ladislas/commitpics
+url: https://github.com/ladislas/commitpics
+branch: gh-pages
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- ladislas/commitpics
+- afternoon
+- Sunday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 8506c173d3e91449cecd3d23128b6602fd0acf6b
+Author: ladislas <ladislas@weareleka.com>
+Date:   Sun Dec 28 15:43:20 2014 +0100
+
+    commitpics script: git add, git commit and git push to the user repository
+
+ script/commitpics.sh | 12 ++++++++++--
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+~~~

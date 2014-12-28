@@ -1,0 +1,63 @@
+---
+layout: commit
+
+title:  "449a6c3"
+date:   Sun Dec 28 15:21:19 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-28-commitpics-449a6c3.jpg
+hash: 449a6c3abeefafd38920df905277cd5e3beaf5d1
+commitdate: Sun Dec 28 15:21:15 2014 +0100
+message: add new posts
+repository: ladislas/commitpics
+url: https://github.com/ladislas/commitpics
+branch: gh-pages
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- ladislas/commitpics
+- afternoon
+- Sunday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 449a6c3abeefafd38920df905277cd5e3beaf5d1
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Sun Dec 28 15:21:15 2014 +0100
+
+    add new posts
+
+ ...014-12-27-Bare-Arduino-Project-4eb3766.markdown |  43 ++++++++++++++++++++
+ .../2014-12-27-test-repository-f0e5fb0.markdown    |  43 ++++++++++++++++++++
+ .../commit/2014-12-28-commitpics-a594007.markdown  |  43 ++++++++++++++++++++
+ .../commit/2014-12-28-commitpics-a76d925.markdown  |  43 ++++++++++++++++++++
+ .../commit/2014-12-28-commitpics-b53d224.markdown  |  43 ++++++++++++++++++++
+ .../commit/2014-12-28-commitpics-ca7010d.markdown  |  43 ++++++++++++++++++++
+ .../commit/2014-12-28-commitpics-e74840c.markdown  |  44 +++++++++++++++++++++
+ .../2014-12-27-Bare-Arduino-Project-4eb3766.jpg    | Bin 0 -> 84350 bytes
+ .../commit/2014-12-27-test-repository-f0e5fb0.jpg  | Bin 0 -> 92012 bytes
+ .../img/commit/2014-12-28-commitpics-a594007.jpg   | Bin 0 -> 72155 bytes
+ .../img/commit/2014-12-28-commitpics-a76d925.jpg   | Bin 0 -> 73257 bytes
+ .../img/commit/2014-12-28-commitpics-b53d224.jpg   | Bin 0 -> 72917 bytes
+ .../img/commit/2014-12-28-commitpics-ca7010d.jpg   | Bin 0 -> 73236 bytes
+ .../img/commit/2014-12-28-commitpics-e74840c.jpg   | Bin 0 -> 74369 bytes
+ .../2014-12-27-Bare-Arduino-Project-4eb3766.jpg    | Bin 0 -> 6069 bytes
+ .../thumbs/2014-12-27-test-repository-f0e5fb0.jpg  | Bin 0 -> 6319 bytes
+ .../thumbs/2014-12-28-commitpics-a594007.jpg       | Bin 0 -> 6149 bytes
+ .../thumbs/2014-12-28-commitpics-a76d925.jpg       | Bin 0 -> 6125 bytes
+ .../thumbs/2014-12-28-commitpics-b53d224.jpg       | Bin 0 -> 6066 bytes
+ .../thumbs/2014-12-28-commitpics-ca7010d.jpg       | Bin 0 -> 6116 bytes
+ .../thumbs/2014-12-28-commitpics-e74840c.jpg       | Bin 0 -> 6111 bytes
+ 21 files changed, 302 insertions(+)
+~~~
