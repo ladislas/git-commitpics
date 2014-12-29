@@ -49,13 +49,13 @@ COMMIT_PICTURE="$NOW-${PWD##*/}-$COMMIT_HASH"
 COMMIT_POST="$COMMIT_PICTURE.markdown"
 
 # Get geotag
-IP_ADDRESS=$(dig +short myip.opendns.com @resolver1.opendns.com)
-GEOTAG_RAW=$(curl --max-time 25 -s --get http://freegeoip.net/json/$IP_ADDRESS)
-LATITUDE=$(echo $GEOTAG_RAW | sed -e "s/^.*\"latitude\":\(.*\)\,\"longitude.*/\1/")
-LONGITUDE=$(echo $GEOTAG_RAW | sed -e "s/^.*\"longitude\":\(.*\)\,\"metro.*/\1/")
-COUNTRY=$(echo $GEOTAG_RAW | sed -e "s/^.*\"country_name\":\"\(.*\)\"\,\"region_code.*/\1/")
-CITY=$(echo $GEOTAG_RAW | sed -e "s/^.*\"city\":\"\(.*\)\"\,\"zip.*/\1/")
-
+# IP_ADDRESS=$(dig +short myip.opendns.com @resolver1.opendns.com)
+# GEOTAG_RAW=$(curl --max-time 25 -s --get http://freegeoip.net/json/$IP_ADDRESS)
+# LATITUDE=$(echo $GEOTAG_RAW | sed -e "s/^.*\"latitude\":\(.*\)\,\"longitude.*/\1/")
+# LONGITUDE=$(echo $GEOTAG_RAW | sed -e "s/^.*\"longitude\":\(.*\)\,\"metro.*/\1/")
+# COUNTRY=$(echo $GEOTAG_RAW | sed -e "s/^.*\"country_name\":\"\(.*\)\"\,\"region_code.*/\1/")
+# CITY=$(echo $GEOTAG_RAW | sed -e "s/^.*\"city\":\"\(.*\)\"\,\"zip.*/\1/")
+#
 # Take picture - wait for 1 second to allow better lightning
 imagesnap $COMMIT_IMG_DIR/$COMMIT_PICTURE.jpg -q -w 1
 
