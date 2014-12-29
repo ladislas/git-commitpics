@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "48cf856"
+date:   Mon Dec 29 21:55:32 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-29-git-scripts-48cf856.jpg
+hash: 48cf856fe9b949df8f40b1035d6b9aa47250b448
+commitdate: Mon Dec 29 21:55:29 2014 +0100
+message: populate readme - not finished yet
+repository: 
+url: https://github.com/CommitPics/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- late evening
+- Monday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 48cf856fe9b949df8f40b1035d6b9aa47250b448
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Mon Dec 29 21:55:29 2014 +0100
+
+    populate readme - not finished yet
+
+ README.md | 42 ++++++++++++++++++++++++++++++++++++++++--
+ 1 file changed, 40 insertions(+), 2 deletions(-)
+~~~
