@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "11f5f4b"
+date:   Tue Dec 30 19:03:35 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-30-git-scripts-11f5f4b.jpg
+hash: 11f5f4b2adc3d9e8d9b741f5738c968f1260bdb8
+commitdate: Tue Dec 30 19:03:32 2014 +0100
+message: fix symlink error handling and message
+repository: 
+url: https://github.com/Commitfie/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- evening
+- Tuesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 11f5f4b2adc3d9e8d9b741f5738c968f1260bdb8
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Tue Dec 30 19:03:32 2014 +0100
+
+    fix symlink error handling and message
+
+ install.sh | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+~~~
