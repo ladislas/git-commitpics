@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "03ca236"
+date:   Tue Dec 30 19:06:31 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-30-git-scripts-03ca236.jpg
+hash: 03ca23693b33c5d191b08f80dcc9c6550df90572
+commitdate: Tue Dec 30 19:06:30 2014 +0100
+message: fix symlink
+repository: 
+url: https://github.com/Commitfie/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- evening
+- Tuesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 03ca23693b33c5d191b08f80dcc9c6550df90572
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Tue Dec 30 19:06:30 2014 +0100
+
+    fix symlink
+
+ install.sh | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+~~~
