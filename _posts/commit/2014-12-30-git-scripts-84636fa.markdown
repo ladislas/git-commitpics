@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "84636fa"
+date:   Tue Dec 30 18:21:58 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-30-git-scripts-84636fa.jpg
+hash: 84636fae45f1b10312c39525ba6f113d95efb32e
+commitdate: Tue Dec 30 18:21:55 2014 +0100
+message: finalize the install script - ask for username, remove git files after cloning and start brand new, catch exception and errors
+repository: 
+url: https://github.com/Commitfie/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- evening
+- Tuesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 84636fae45f1b10312c39525ba6f113d95efb32e
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Tue Dec 30 18:21:55 2014 +0100
+
+    finalize the install script - ask for username, remove git files after cloning and start brand new, catch exception and errors
+
+ install.sh | 21 +++++++++++++++++----
+ 1 file changed, 17 insertions(+), 4 deletions(-)
+~~~
