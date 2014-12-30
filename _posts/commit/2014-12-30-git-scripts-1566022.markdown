@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "1566022"
+date:   Tue Dec 30 10:54:04 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-30-git-scripts-1566022.jpg
+hash: 156602202d70a5574ea510ea65730c2621ad05b1
+commitdate: Tue Dec 30 10:54:02 2014 +0100
+message: add editor config file
+repository: 
+url: https://github.com/CommitPics/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- morning
+- Tuesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 156602202d70a5574ea510ea65730c2621ad05b1
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Tue Dec 30 10:54:02 2014 +0100
+
+    add editor config file
+
+ .editorconfig | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+~~~
