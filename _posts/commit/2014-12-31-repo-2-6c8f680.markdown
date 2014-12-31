@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "6c8f680"
+date:   Wed Dec 31 12:15:04 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-31-repo-2-6c8f680.jpg
+hash: 6c8f68070b7a0ad04101e5ab22562575d5fb1592
+commitdate: Wed Dec 31 12:15:02 2014 +0100
+message: add licence
+repository: 
+url: /Users/ladislas/dev/tmp/repo-1
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- midday
+- Wednesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 6c8f68070b7a0ad04101e5ab22562575d5fb1592
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Wed Dec 31 12:15:02 2014 +0100
+
+    add licence
+
+ licence | 1 +
+ 1 file changed, 1 insertion(+)
+~~~
