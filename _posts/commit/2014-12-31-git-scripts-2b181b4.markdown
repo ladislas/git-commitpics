@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "2b181b4"
+date:   Wed Dec 31 16:24:51 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-31-git-scripts-2b181b4.jpg
+hash: 2b181b49045b0e1f0d9abaa45d9e04a09ce528dd
+commitdate: Wed Dec 31 16:24:48 2014 +0100
+message: set specific python space tab
+repository: 
+url: https://github.com/Commitfie/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- late afternoon
+- Wednesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 2b181b49045b0e1f0d9abaa45d9e04a09ce528dd
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Wed Dec 31 16:24:48 2014 +0100
+
+    set specific python space tab
+
+ .editorconfig | 3 +++
+ 1 file changed, 3 insertions(+)
+~~~
