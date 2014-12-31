@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "e7cdf18"
+date:   Wed Dec 31 12:14:05 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-31-repo-1-e7cdf18.jpg
+hash: e7cdf18684868453729a5819c3d82275ffead908
+commitdate: Wed Dec 31 12:14:03 2014 +0100
+message: Initial COmmit
+repository: 
+url: 
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- midday
+- Wednesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit e7cdf18684868453729a5819c3d82275ffead908
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Wed Dec 31 12:14:03 2014 +0100
+
+    Initial COmmit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+~~~
