@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "61b6334"
+date:   Sat Jan  3 13:33:33 2015
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-03-git-scripts-61b6334.jpg
+hash: 61b63340d67357ce1906bae287da6637934cbd21
+commitdate: Wed Dec 31 20:04:34 2014 +0100
+message: wip on variables, must add some error checking if empty - #2
+repository: 
+url: https://github.com/Commitfie/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- afternoon
+- Saturday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 61b63340d67357ce1906bae287da6637934cbd21
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Wed Dec 31 20:04:34 2014 +0100
+
+    wip on variables, must add some error checking if empty - #2
+
+ commitfie.py | 32 ++++++++++++++------------------
+ 1 file changed, 14 insertions(+), 18 deletions(-)
+~~~
