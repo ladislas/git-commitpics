@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "4ed2256"
+date:   Wed Dec 31 12:15:34 2014
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2014-12-31-repo-1-4ed2256.jpg
+hash: 4ed22567d1bd89fb6dd2eb8f9ff79b4968e3004e
+commitdate: Wed Dec 31 12:15:32 2014 +0100
+message: add index
+repository: 
+url: 
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- midday
+- Wednesday
+- December
+- 2014
+- n/a
+- n/a
+---
+
+~~~diff
+commit 4ed22567d1bd89fb6dd2eb8f9ff79b4968e3004e
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Wed Dec 31 12:15:32 2014 +0100
+
+    add index
+
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+~~~
