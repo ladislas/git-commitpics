@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "238d92a"
+date:   Sat Jan  3 13:37:27 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-03-git-scripts-238d92a.jpg
+hash: 238d92af7a58d7d1d9cdc6956c84a8a1cdb9a35e
+commitdate: Sat Jan 3 13:37:24 2015 +0100
+message: add global variables, sanitize the way we get command output, create custom commandcall function to handle errors, take picture and resize thumbnails - #2 - fixes #6
+repository: 
+url: https://github.com/Commitfie/git-scripts
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- afternoon
+- Saturday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 238d92af7a58d7d1d9cdc6956c84a8a1cdb9a35e
+Author: ladislas <ladislas@weareleka.com>
+Date:   Sat Jan 3 13:37:24 2015 +0100
+
+    add global variables, sanitize the way we get command output, create custom commandcall function to handle errors, take picture and resize thumbnails - #2 - fixes #6
+
+ commitfie.py | 69 ++++++++++++++++++++++++++++++++++++++++++------------------
+ 1 file changed, 48 insertions(+), 21 deletions(-)
+~~~
