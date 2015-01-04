@@ -1,0 +1,44 @@
+---
+layout: commit
+
+title:  "8531d8d"
+date:   Sun Jan  4 17:52:24 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-04-ghost-8531d8d.jpg
+hash: 8531d8d50304348e36f9b081695363ae2d312e08
+commitdate: Sun Jan 4 17:52:21 2015 +0100
+message: switch to prod db and rename both
+repository: 
+url: https://github.com/ladislas/ghost
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- late afternoon
+- Sunday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 8531d8d50304348e36f9b081695363ae2d312e08
+Author: ladislas <ladislas@weareleka.com>
+Date:   Sun Jan 4 17:52:21 2015 +0100
+
+    switch to prod db and rename both
+
+ content/data/ghost-dev.db | Bin 126976 -> 126976 bytes
+ content/data/ghost.db     | Bin 52224 -> 126976 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+~~~
