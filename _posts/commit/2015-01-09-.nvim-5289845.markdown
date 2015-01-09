@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "5289845"
+date:   Fri Jan  9 11:37:36 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-09-.nvim-5289845.jpg
+hash: 52898459661d9799edc2c37fc30e1e28474f4d38
+commitdate: Fri Jan 9 11:37:33 2015 +0100
+message: add json.vim plugin
+repository: 
+url: https://github.com/ladislas/nvim
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- midday
+- Friday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 52898459661d9799edc2c37fc30e1e28474f4d38
+Author: ladislas <ladislas@weareleka.com>
+Date:   Fri Jan 9 11:37:33 2015 +0100
+
+    add json.vim plugin
+
+ vimrc | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+~~~
