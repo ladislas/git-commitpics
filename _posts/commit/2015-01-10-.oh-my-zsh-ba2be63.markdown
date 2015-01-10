@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "ba2be63"
+date:   Sat Jan 10 12:16:57 2015
+
+author: Ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-10-.oh-my-zsh-ba2be63.jpg
+hash: ba2be6362f88f606bbf7580e1280726044ed3ab0
+commitdate: Sat Jan 10 12:16:52 2015 +0100
+message: update history time stamp
+repository: 
+url: https://github.com/ladislas/oh-my-zsh
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- Ladislas
+- 
+- midday
+- Saturday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit ba2be6362f88f606bbf7580e1280726044ed3ab0
+Author: Ladislas <ladislas@weareleka.com>
+Date:   Sat Jan 10 12:16:52 2015 +0100
+
+    update history time stamp
+
+ templates/zshrcDot.zsh-template | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+~~~
