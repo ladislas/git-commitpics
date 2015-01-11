@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "4359c6a"
+date:   Sun Jan 11 18:07:51 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-11-.nvim-4359c6a.jpg
+hash: 4359c6ade50f7122c1920da774907254b581b37c
+commitdate: Sun Jan 11 18:07:47 2015 +0100
+message: change pandoc markdown formatting
+repository: 
+url: https://github.com/ladislas/nvim
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- evening
+- Sunday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 4359c6ade50f7122c1920da774907254b581b37c
+Author: ladislas <ladislas@weareleka.com>
+Date:   Sun Jan 11 18:07:47 2015 +0100
+
+    change pandoc markdown formatting
+
+ vimrc | 5 ++---
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+~~~
