@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "26a7730"
+date:   Tue Jan 13 14:21:29 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-13-discovermoti-26a7730.jpg
+hash: 26a7730fee8bf9957ad0a238147a574d1a45330f
+commitdate: Tue Jan 13 14:21:27 2015 +0100
+message: Initial Commit
+repository: 
+url: 
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- afternoon
+- Tuesday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 26a7730fee8bf9957ad0a238147a574d1a45330f
+Author: ladislas <ladislas@weareleka.com>
+Date:   Tue Jan 13 14:21:27 2015 +0100
+
+    Initial Commit
+
+ README.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+~~~
