@@ -1,0 +1,47 @@
+---
+layout: commit
+
+title:  "912955b"
+date:   Thu Jan 15 18:55:18 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-15-discovermoti-912955b.jpg
+hash: 912955bcfd493336c9a905d493c933e5fb7d30b6
+commitdate: Thu Jan 15 18:55:15 2015 +0100
+message: work on hero transparent backrgound and so on
+repository: 
+url: https://github.com/WeAreLeka/discovermoti
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- evening
+- Thursday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 912955bcfd493336c9a905d493c933e5fb7d30b6
+Author: ladislas <ladislas@weareleka.com>
+Date:   Thu Jan 15 18:55:15 2015 +0100
+
+    work on hero transparent backrgound and so on
+
+ css/_base/_base.scss       |   6 ++
+ css/_modules/_hero.scss    |  58 ++++++++++++------
+ css/_modules/_modules.scss |   2 +
+ css/main.css               | 148 +++++++++++++++++++++++++++++++++++++++------
+ index.html                 |  64 ++++++++++++++------
+ 5 files changed, 221 insertions(+), 57 deletions(-)
+~~~
