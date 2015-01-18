@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "07b8cbc"
+date:   Sun Jan 18 13:45:53 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-18-.nvim-07b8cbc.jpg
+hash: 07b8cbc99947ecf8f80e9d408035e78cc672c8d9
+commitdate: Sun Jan 18 13:45:50 2015 +0100
+message: add cr mapping to insert line in normal mode
+repository: 
+url: https://github.com/ladislas/nvim
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- afternoon
+- Sunday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 07b8cbc99947ecf8f80e9d408035e78cc672c8d9
+Author: ladislas <ladislas@weareleka.com>
+Date:   Sun Jan 18 13:45:50 2015 +0100
+
+    add cr mapping to insert line in normal mode
+
+ vimrc | 3 +++
+ 1 file changed, 3 insertions(+)
+~~~
