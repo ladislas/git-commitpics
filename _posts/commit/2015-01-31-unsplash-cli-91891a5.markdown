@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "91891a5"
+date:   Sat Jan 31 15:48:46 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-01-31-unsplash-cli-91891a5.jpg
+hash: 91891a5686210349c37377d2c83aa8cdaab805c7
+commitdate: Sat Jan 31 15:48:43 2015 +0100
+message: create unsplash.js and add phony output
+repository: 
+url: https://github.com/ladislas/unsplash-cli
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- afternoon
+- Saturday
+- January
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 91891a5686210349c37377d2c83aa8cdaab805c7
+Author: ladislas <ladislas@weareleka.com>
+Date:   Sat Jan 31 15:48:43 2015 +0100
+
+    create unsplash.js and add phony output
+
+ unsplash.js | 3 +++
+ 1 file changed, 3 insertions(+)
+~~~
