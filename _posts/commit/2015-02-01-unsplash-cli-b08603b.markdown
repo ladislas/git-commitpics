@@ -1,0 +1,44 @@
+---
+layout: commit
+
+title:  "b08603b"
+date:   Sun Feb  1 15:11:17 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-02-01-unsplash-cli-b08603b.jpg
+hash: b08603b7e34d3308168816d6576566b44009bf3d
+commitdate: Sun Feb 1 15:11:14 2015 +0100
+message: add general architecture, check if database exists and create if not - fixes #1
+repository: 
+url: https://github.com/ladislas/unsplash-cli
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- afternoon
+- Sunday
+- February
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit b08603b7e34d3308168816d6576566b44009bf3d
+Author: ladislas <ladislas@weareleka.com>
+Date:   Sun Feb 1 15:11:14 2015 +0100
+
+    add general architecture, check if database exists and create if not - fixes #1
+
+ package.json |  35 +++++++++++-------
+ unsplash.js  | 119 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 2 files changed, 140 insertions(+), 14 deletions(-)
+~~~
