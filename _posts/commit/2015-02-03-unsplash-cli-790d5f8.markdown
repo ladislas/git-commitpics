@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "790d5f8"
+date:   Tue Feb  3 22:41:05 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-02-03-unsplash-cli-790d5f8.jpg
+hash: 790d5f811fb2ea5ffbe7c61439228b07e4e93b07
+commitdate: Tue Feb 3 22:41:02 2015 +0100
+message: add link copying
+repository: 
+url: https://github.com/ladislas/unsplash-cli
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- late evening
+- Tuesday
+- February
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit 790d5f811fb2ea5ffbe7c61439228b07e4e93b07
+Author: ladislas <ladislas@weareleka.com>
+Date:   Tue Feb 3 22:41:02 2015 +0100
+
+    add link copying
+
+ unsplash.js | 40 ++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 40 insertions(+)
+~~~
