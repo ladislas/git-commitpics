@@ -1,0 +1,43 @@
+---
+layout: commit
+
+title:  "f33c5d0"
+date:   Wed Feb  4 12:24:59 2015
+
+author: ladislas
+email:  ladislas@weareleka.com
+
+img: 2015-02-04-.nvim-f33c5d0.jpg
+hash: f33c5d00416a7c0a45dc9cf356e4b2cf5d30774a
+commitdate: Wed Feb 4 12:24:57 2015 +0100
+message: add set scrolloff to keep curosor from reaching screen borders
+repository: 
+url: https://github.com/ladislas/nvim
+branch: master
+
+latitude: n/a
+longitude: n/a
+city: n/a
+country: n/a
+
+categories:
+- ladislas
+- 
+- midday
+- Wednesday
+- February
+- 2015
+- n/a
+- n/a
+---
+
+~~~diff
+commit f33c5d00416a7c0a45dc9cf356e4b2cf5d30774a
+Author: ladislas <ladislas@weareleka.com>
+Date:   Wed Feb 4 12:24:57 2015 +0100
+
+    add set scrolloff to keep curosor from reaching screen borders
+
+ vimrc | 1 +
+ 1 file changed, 1 insertion(+)
+~~~
